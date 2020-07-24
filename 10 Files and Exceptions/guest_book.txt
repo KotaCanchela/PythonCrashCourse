@@ -1,0 +1,10 @@
+Kota
+James
+Henry
+Hilary
+Fred
+Kill
+Source /Users/Kota/Opt/Anaconda3/Bin/Activate Untitled2
+Kota
+James
+Hello

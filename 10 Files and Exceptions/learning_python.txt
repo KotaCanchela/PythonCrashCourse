@@ -1,0 +1,4 @@
+In python you can save files
+In python you can use object oriented programming
+In python you can automate activities
+In python you can create lists
