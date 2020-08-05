@@ -4,7 +4,7 @@ from datetime import datetime
 import matplotlib.patches as mpatches
 
 
-filename = "16 Downloading Data/2229225.csv"  # Data containing dates, location, and precipitation amount by city (Lake Stevens and San Francisco)
+filename = "/Users/Kota/Desktop/Programming/Python/python/16 Downloading Data/2229225.csv"  # Data containing dates, location, and precipitation amount by city (Lake Stevens and San Francisco)
 with open(filename) as f:
     reader = csv.reader(f)
     header_row = next(reader)
